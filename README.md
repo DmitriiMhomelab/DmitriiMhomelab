@@ -26,25 +26,19 @@
   <img src="https://skillicons.dev/icons?i=azure,grafana" />
 </p>
 
-## 🏆 Certifications & Achievements
 
-<div align="center">
+## 🎓 Certifications
+```
+🥇 Expert:        AZ-400 (DevOps Engineer)
+🥈 Associate:     AZ-500 (Security) • AZ-700 (Network)
+🥉 Fundamentals:  AZ-900 • AI-900 • DP-900 • SC-900
+📚 Legacy:        MTA Windows Server Administration
+```
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=4)
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Certifications-8-success?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
-**Expert Level**  
-🥇 AZ-400: DevOps Engineer Expert
-
-**Associate Level**  
-🥈 AZ-500: Security Engineer Associate • AZ-700: Network Engineer Associate
-
-**Fundamentals**  
-🥉 AZ-900: Azure • AI-900: AI • DP-900: Data • SC-900: Security, Compliance & Identity
-
-**Legacy**  
-📜 MTA: Windows Server Administration
-
-</div>
 ## 🎯 Focus Areas
 
 ☁️ Azure Cloud Infrastructure • 🤖 AI/MLOps Platforms • 🔄 CI/CD Optimization • 📊 Monitoring & Alerting • 🛠️ Infrastructure as Code
