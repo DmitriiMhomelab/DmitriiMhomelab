@@ -32,8 +32,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&card_width=400)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
+![Stats](https://github-readme-stats.vercel.app/api?username=DmitriiMhomelab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&card_width=400)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiMhomelab&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
 
 </div>
 
@@ -47,7 +47,4 @@ Currently working on AI platform projects | Learning MLOps & AI infrastructure p
 
 ---
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
-
 </div>
