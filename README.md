@@ -26,53 +26,25 @@
   <img src="https://skillicons.dev/icons?i=azure,grafana" />
 </p>
 
-## 🎓 Microsoft Certifications
+## 🏆 Certifications & Achievements
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AZ--400-Expert-FF6B6B?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
-      <sub><b>DevOps Engineer</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AZ--500-Associate-4ECDC4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
-      <sub><b>Security Engineer</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AZ--700-Associate-45B7D1?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
-      <sub><b>Network Engineer</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AZ--900-Fundamentals-96CEB4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
-      <sub><b>Azure</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI--900-Fundamentals-FFEAA7?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
-      <sub><b>AI</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/DP--900-Fundamentals-DFE6E9?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
-      <sub><b>Data</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SC--900-Fundamentals-74B9FF?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-      <sub><b>Security & Identity</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MTA-Legacy-A29BFE?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-      <sub><b>Windows Server</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/8-Total-00B894?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-      <sub><b>Certifications</b></sub>
-    </td>
-  </tr>
-</table>>
+<div align="center">
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=4)
+
+**Expert Level**  
+🥇 AZ-400: DevOps Engineer Expert
+
+**Associate Level**  
+🥈 AZ-500: Security Engineer Associate • AZ-700: Network Engineer Associate
+
+**Fundamentals**  
+🥉 AZ-900: Azure • AI-900: AI • DP-900: Data • SC-900: Security, Compliance & Identity
+
+**Legacy**  
+📜 MTA: Windows Server Administration
+
+</div>
 ## 🎯 Focus Areas
 
 ☁️ Azure Cloud Infrastructure • 🤖 AI/MLOps Platforms • 🔄 CI/CD Optimization • 📊 Monitoring & Alerting • 🛠️ Infrastructure as Code
