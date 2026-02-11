@@ -1,5 +1,14 @@
 <div align="center">
 
+# Hi, I'm Dima! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Azure+Cloud+Specialist;MLOps+Enthusiast;Infrastructure+as+Code)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](your-telegram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
+
+</div>
+
 ## 🔧 Tech Stack
 
 **Cloud & Infrastructure**  
@@ -17,48 +26,23 @@
   <img src="https://skillicons.dev/icons?i=azure,grafana" />
 </p>
 
-
-
-## 📈 Activity
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true)
-
-
-
-# Hi, I'm Dima! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Azure+Cloud+Specialist;MLOps+Enthusiast;Infrastructure+as+Code)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](your-telegram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
-
-</div>
-
-## 🔧 Tech Stack
-
-**Cloud & Infrastructure**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**CI/CD & Automation**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**AI/ML & Monitoring**  
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Monitor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-## 📊 GitHub Stats
+## 🎓 Certifications
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=singuliarumas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&card_width=400)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singuliarumas&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
+### 🔷 Associate & Expert Level
+[![DevOps Expert](https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/devops-engineer/)
+[![Security Associate](https://img.shields.io/badge/AZ--500-Security_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-security-engineer/)
+[![Network Associate](https://img.shields.io/badge/AZ--700-Network_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-network-engineer-associate/)
+
+### 🔹 Fundamentals
+[![Azure Fund](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-fundamentals/)
+[![AI Fund](https://img.shields.io/badge/AI--900-AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-ai-fundamentals/)
+[![Data Fund](https://img.shields.io/badge/DP--900-Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-data-fundamentals/)
+
+### 🔸 Security & Compliance
+[![SC-900](https://img.shields.io/badge/SC--900-Security_Compliance_Identity-107C10?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/certifications/security-compliance-and-identity-fundamentals/)
+[![MTA](https://img.shields.io/badge/MTA-Windows_Server_Admin-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/certifications/mta-windows-server-administration-fundamentals/)
 
 </div>
 
